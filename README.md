@@ -33,7 +33,7 @@ Para el experimento se requieren los siguientes materiales:
 En nuestro caso realizamos el experimento con 1 rendija de 2 ranuras.
 
 ### Experimento
-![image](https://user-images.githubusercontent.com/74771189/134752099-07d549cd-c899-40e1-b9da-ff4d816068f0.jpg
+![image](https://user-images.githubusercontent.com/74771189/134752102-44757c31-a550-4e90-b950-476a62fc5b5b.jpg)
 
 ![image](https://user-images.githubusercontent.com/74771189/134752104-dad7f07e-f282-4f2c-8a02-68ac68b12d8f.jpg
 
