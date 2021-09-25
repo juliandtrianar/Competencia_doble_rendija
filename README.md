@@ -35,52 +35,19 @@ Lo primero que se debe hacer es diseñar el número de rendijas que se quieran p
 
 Al ya tener las rendijas se crea una maqueta que tenga al fondo una pantalla para apreciar las imágenes que se generen enfrente de la pantalla se coloca la rendija que se quiera probar para el experimento, esta debe ser capaz de cambiar entre las rejillas, y por último, a una distancia que, cuando se prenda el laser cubra completamente las rejillas, se pone el laser para que se genera la imagen en la pantalla.
 
-La dificultad a la hora de desarrollar el experimento es de poder crear las rendijas y que den la imagen que se busca.
-
 ### Materiales:
 
 Para el experimento se requieren los siguientes materiales:
       
 1. Papel aluminio o hojas blancas para crear las rendijas.
-2. Marcador negro.
-3. Marcador negro.
-4. Marcador negro.
+2. Carton
+3. Laser
 
 ### Desarrollo:
 
-En nuestro caso realizamos el experimento con 3 rendijas diferentes, de 1, 2 y 3 ranuras, y donde se espera que experimentalmente no de igual o muy parecida con cada una de ellas.
+En nuestro caso realizamos el experimento con 1 rendija de ranuras.
 
-### Experimento con 1 rendija.
-
-Para empezar, el primer montaje que se debe realizar es el de una rendija, en donde se busca ver el fenómeno físico que se produce cuando el láser atraviesa, teóricamente se espera:
-
-En donde la dispersión del láser se disminuye, pero la trayectoria se mantiene constante, el primer montaje cuenta de la rendija única y el laser que genera la proyección otra forma de entender el experimento a través de grafos se podría ver de la siguiente manera:
-
-![image](https://user-images.githubusercontent.com/59977494/76165304-e27fd700-6123-11ea-9c1c-9052d647a39a.png)
-
-Y para verlo en forma de matriz se aprecia de la siguiente manera:
-
-![image](https://user-images.githubusercontent.com/59977494/76165375-a7ca6e80-6124-11ea-82b7-0255e633a38f.png)
-
-Esto nos demuestra que hay 100 % de probabilidad que entre por la rendija única y después un 25%  de tocar cualquiera de lo siguientes blancos y cada uno de los receptores es reflexivo consigo mismo.
-
-### Experimento con 2 rendijas.
-![image](https://user-images.githubusercontent.com/59977494/76165400-d34d5900-6124-11ea-9008-e04319d66a95.png)
-
-![image](https://user-images.githubusercontent.com/59977494/76165405-dc3e2a80-6124-11ea-932b-5865a371aed2.png)
-
-Una manera de poder entender este experimento en forma de grafos sería la siguiente, suponiendo que tenemos 6 receptores.
-![image](https://user-images.githubusercontent.com/59977494/76165416-f0822780-6124-11ea-82a7-db84eb653a16.png)
-
-![image](https://user-images.githubusercontent.com/59977494/76165425-faa42600-6124-11ea-9687-9ec58cf06263.png)
-
-Y si lo quisiéramos ver en forma de una matriz sería de la siguiente manera.
-
-![image](https://user-images.githubusercontent.com/59977494/76165433-10b1e680-6125-11ea-8bba-03dea8be3bc8.png)
-
-Lo cual nos quiere decir que tenemos un 50% de probabilidad de que el rayo láser se vaya por alguna de las dos rendijas. Luego de pasar por alguna de las dos rendijas que vendrían a ser los estados 1 y 2 vemos que hay una probabilidad de 1/6 o 16.66 % de que toque alguno de los receptores.
-
-### Experimento de 3 rendijas:
+### Experimento
 
 
 
