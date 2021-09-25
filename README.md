@@ -18,7 +18,7 @@ Muchos explican este experimento como la interferencia entre las ondas que se ge
 Para realizar el experimento se debe seguir un procedimiento relativamente sencillo:
 Lo primero que se debe hacer es diseñar el número de rendijas que se quieran probar, esta puede ser de 1, 2, hasta el número que físicamente uno sea capaz de crear, el resultado en cada una de ellas debería ser muy parecido si no es que el mismo.
 
-Al ya tener las rendijas se crea una maqueta que tenga al fondo una pantalla para apreciar las imágenes que se generen enfrente de la pantalla se coloca la rendija que se quiera probar para el experimento, esta debe ser capaz de cambiar entre las rejillas, y por último, a una distancia que, cuando se prenda el laser cubra completamente las rejillas, se pone el laser para que se genera la imagen en la pantalla.
+Al ya tener las rendijas se crea una maqueta que tenga al fondo una pantalla para apreciar las imágenes que se generen en la pantalla se coloca la rendija que se quiera probar para el experimento, esta debe ser capaz de cambiar entre las rejillas y por último a una distancia que cuando se prenda el laser cubra completamente las rejilla y se genere la imagen en la pantalla.
 
 ### Materiales:
 
