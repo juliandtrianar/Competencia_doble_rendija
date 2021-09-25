@@ -38,7 +38,6 @@ En nuestro caso realizamos el experimento con 1 rendija de 2 ranuras.
 ![image](https://user-images.githubusercontent.com/74771189/134752104-dad7f07e-f282-4f2c-8a02-68ac68b12d8f.jpg)
 ### Video de simulación del experimento.
 
-[![https://youtu.be/omFa72tRSPc](http://img.youtube.com/vi/omFa72tRSPc/0.jpg)](http://www.youtube.com/watch?v=omFa72tRSPc "Experimento rendija")
-
+[![https://youtu.be/omFa72tRSPc](http://img.youtube.com/vi/omFa72tRSPc/0.jpg)](https://youtu.be/gVpJKAnXDgs "Experimento rendija")
 
 
