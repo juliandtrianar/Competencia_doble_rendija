@@ -1,33 +1,18 @@
 # Competencia_doble_rendija
 ### Presentado por:
 Steven Alejandro Huertas Lemus Y Julian David Triana Roa
-# Asignatura
+### Asignatura
 CNYT
-# Docente
-Luis Daniel Benavidez Navarro
-
-### Competencia de la doble rendija
-                                                 
-                                                 
-
-
-
 ### Docente
 Luis Daniel Benavidez Navarro
-
-
-### Asignatura
-CNYT (Ciencias Naturales y Tecnología)
-
-Colombia ciudad Bogotá D.C. Marzo 02 de 2020
-
+                                                                                            
 ### Experimento de la rendija.
 
-El siguiente experimento se realizó por primera vez, utilizando luz por Thomas Young en 1801, que buscaba demostrar comportamiento ondulatorio de la luz y lo cual termino creando una nueva teoría completamente nueva, relacionada con la física cuántica y que muestra un fenómeno muy difícil de explicar.
+El siguiente experimento se realizó por primera vez, utilizando luz por Thomas Young en 1801, que buscaba demostrar comportamiento ondulatorio de la luz y termino creando una nueva teoría completamente nueva, relacionada con la física cuántica y que muestra un fenómeno difícil de explicar.
 
 ### Como funciona:
 
-Muchos explican este experimento como la interferencia entre las ondas que se generan al momento que la onda original pasa por la doble rendija, pero al momento en que se prueba con lanzar soltar de a un electrón a la doble rendija, nunca mandando más de uno a la vez, se vuelve a generar el mismo patrón, como sí se encontrara con algún tipo de interferencia al momento de pasar por las rendijas, la física cuántica explica esto como que el electrón interfiere consigo mismo en múltiples universos, entonces aun así se mande un único electrón se encontrar con interferencia propia y se creara el patrón de interferencia que conocemos y esperamos para este experimento.
+Muchos explican este experimento como la interferencia entre las ondas que se generan al momento que la onda original pasa por la doble rendija, pero al momento en que se prueba con lanzar soltar de a un electrón a la doble rendija, nunca mandando más de uno a la vez, se vuelve a generar el mismo patrón, como sí se encontrara con algún tipo de interferencia al momento de pasar por las rendijas, la física cuántica explica esto como que el electrón interfiere consigo mismo en múltiples universos, entonces aun así se mande un único electrón se encuentra con interferencia propia y se creara el patrón de interferencia que conocemos y esperamos para este experimento.
 
 ### Experimentalmente:
 Para realizar el experimento se debe seguir un procedimiento relativamente sencillo:
@@ -45,11 +30,9 @@ Para el experimento se requieren los siguientes materiales:
 
 ### Desarrollo:
 
-En nuestro caso realizamos el experimento con 1 rendija de ranuras.
+En nuestro caso realizamos el experimento con 1 rendija de 2 ranuras.
 
 ### Experimento
-
-
 
 ![image](https://user-images.githubusercontent.com/59977494/76165459-3e972b00-6125-11ea-8587-03e0fa9bf9e4.png)
 
